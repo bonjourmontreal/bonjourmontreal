@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Bachir
+# 😄 Hi, I'm Bachir
 
 ## About Me
 I'm a programmer with a solid foundation in **mechanical engineering** and a passion for solving complex problems. I thrive at the intersection of **engineering** and **software development**, always eager to learn new technologies and create innovative solutions. I believe in combining the best of both worlds—hands-on engineering experience and the power of code—to design and implement practical, real-world solutions.
@@ -26,10 +26,10 @@ Developed a modular e-bike accessories ecosystem and led prototyping efforts usi
 
 ## 🌟 Projects
 
-### **AlgoAssist**
+### [**AlgoAssist**](https://github.com/bonjourmontreal/AlgoAssist)
 A sorting and pathfinding algorithm visualizer built with Python and Pygame, designed for educational purposes. The app features multiple sorting algorithms and pathfinding techniques with step-by-step visualization and performance metrics.
 
-### **SpotiPlay**
+### [**SpotiPlay**](https://github.com/bonjourmontreal/SpotiPlay)
 A Spotify-based music quiz game built using Python, Flask, and PostgreSQL. The app leverages the Spotify API to create personalized music quizzes based on the user’s listening history.
 
 ## 📫 How to Reach Me
