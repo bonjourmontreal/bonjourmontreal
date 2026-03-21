@@ -1,41 +1,54 @@
-# 😄 Hi, I'm Bachir
+# Bachir Mets
 
-## About Me
-I'm a programmer with a solid foundation in **mechanical engineering** and a passion for solving complex problems. I thrive at the intersection of **engineering** and **software development**, always eager to learn new technologies and create innovative solutions. I believe in combining the best of both worlds—hands-on engineering experience and the power of code—to design and implement practical, real-world solutions.
+**Senior Applied AI Engineer Manager** · Montreal, Canada
 
-- 🔧 **Mechanical Engineer**: Extensive experience in production management, product development, and leading teams in fast-paced environments.
-- 💻 **Programmer**: Currently focusing on **Python**, **React**, and **Django** to build efficient and scalable applications.
-- 🌱 **Always Learning**: Constantly exploring new tools, frameworks, and approaches to enhance my skills and bring creative ideas to life.
+I architect enterprise-grade AI agent systems with multi-agent orchestration and compliance-first design. I lead teams that have shipped 10+ production AI agents for Fortune 500 and Big Four clients in financial services and consulting — cutting manual effort by up to 95% while maintaining full regulatory auditability.
 
-## 🔨 Skills
-- **Languages**: Python, JavaScript, SQL, C, C++, HTML/CSS, Matlab
-- **Frameworks & Libraries**: React, Django, Flask, Bootstrap
-- **Software**: SolidWorks, Fusion360, AutoCAD, ANSYS Fluent, Simplify3D
-- **Other Skills**: Team leadership, project management, prototyping, and manufacturing processes
+A two-year stint in Taipei turned a curiosity about AI into an obsession — I spent that time self-studying machine learning and programming before making the full career pivot. Before that, I ran manufacturing operations in Vietnam, served as a Combat Engineer in the Canadian Armed Forces, and studied mechanical engineering. The winding path means I think about systems differently.
 
-## 🛠️ Work Experience
+---
 
-### Vight - Bespoke Lighting (Jan. 2022 – Jan. 2023)
-**Factory Manager** – Ho Chi Minh City, Vietnam  
-- Led a team of 20 to streamline production processes for lighting and furniture, improving efficiency and quality control.
-- Managed vendor relationships, optimized lead times, and provided production analyses to executive leadership.
+### What I'm Working On
 
-### Modmo (Aug. 2020 – Jan. 2022)
-**Modular Accessories Engineering Manager** – Ho Chi Minh City, Vietnam  
-- Developed a modular e-bike accessories ecosystem using quick-release fasteners, and led prototyping through 3D printing, CNC machining, and sheet metal fabrication.
-- Collaborated cross-functionally to enhance product development, ensuring high-quality standards and operational efficiency.
+At **Ampliwork**, I drive company-wide multi-agent orchestration strategy across a portfolio of 10+ production agents, designing sub-agent architectures and reusable context engineering patterns. I lead a team of 15+ engineers delivering enterprise AI systems for Fortune 500 clients in financial services and consulting.
 
-## 🌟 Projects
+Recent work includes architecting an AI-driven platform for a Big Four consulting firm automating unclaimed property discovery and claims processing across 50 US jurisdictions with NLP extraction and compliance validation, and establishing agentic coding (Claude Code, Cursor) as a core dev standard — cutting feature delivery time by 40%.
 
-### [**AlgoAssist**](https://github.com/bonjourmontreal/AlgoAssist)
-A sorting and pathfinding algorithm visualizer built with Python and Pygame, designed for educational purposes. The app features multiple sorting algorithms and pathfinding techniques with step-by-step visualization and performance metrics.
+Previously as Applied AI Engineer, I led a cross-functional team of 6 delivering 3 production AI agents for a global asset manager ($1T+ AUM), processing $250M+ in investment transactions with 99.37% extraction accuracy. I also built an email classification and routing agent achieving 98.98% accuracy and reduced investor onboarding time from days to under 1 hour.
 
-### [**SpotiPlay**](https://github.com/bonjourmontreal/SpotiPlay)
-A Spotify-based music quiz game built using Python, Flask, and PostgreSQL. The app leverages the Spotify API to create personalized music quizzes based on the user’s listening history.
+As a Software Engineer, I shipped an enterprise AI agent automating RFP/DDQ responses for institutional investment firms with an 80%+ auto-submission rate and zero human intervention, and designed multi-step RAG pipelines with Chain-of-Thought and ReAct reasoning deployed on AWS.
 
-## 📫 How to Reach Me
-- **LinkedIn**: [Bachir Mets](https://www.linkedin.com/in/bachir-mets-999b0a90/)
-- **Location**: Montreal, Canada | Taipei, Taiwan
+---
 
-## ⚡ Fun Facts
-- I love **F1 racing**, **music**, **hiking**, and playing **chess** in my free time.
+### Tech Stack
+
+**Programming**
+`Python` `FastAPI` `Django` `Pydantic` `Pandas` `SQL` `JavaScript` `TypeScript` `Next.js` `React`
+
+**Agentic AI**
+`Multi-Agent Orchestration` `Context Engineering` `Sub-Agent Design` `HITL` `MCP` `Agent Evaluation`
+
+**Frameworks & Libraries**
+`RAG` `NLP` `Embeddings` `Semantic Search` `LangChain` `LangGraph` `LLM APIs`
+
+**Infrastructure**
+`AWS (S3, Lambda, ECS, RDS)` `PostgreSQL` `Qdrant` `Pinecone` `Redis` `CI/CD` `Docker`
+
+**Enterprise**
+`SOC-2` `GDPR` `Audit Trails` `RBAC` `Multi-Tenant Architecture` `Agile` `Claude Code` `Cursor`
+
+---
+
+### Background
+
+Before software, I managed manufacturing operations in Vietnam — first as an Engineering Manager at Modmo leading an engineering team from R&D and prototyping through production for a modular e-bike accessories ecosystem, then as a Plant Manager at Vight running a 20-person team producing custom lighting systems. I served as a Combat Engineer (Sapper) in the Canadian Armed Forces, and hold a B.Eng. in Mechanical Engineering from Concordia University.
+
+When I'm not building agents, you'll probably find me playing chess, watching F1, hiking, or digging through music.
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bachir-mets-999b0a90/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bonjourmontreal/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bachir.mets@gmail.com)
