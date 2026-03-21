@@ -41,7 +41,9 @@ As a Software Engineer, I shipped an enterprise AI agent automating RFP/DDQ resp
 
 ### Background
 
-Before software, I managed manufacturing operations in Vietnam — first as an Engineering Manager at Modmo leading an engineering team from R&D and prototyping through production for a modular e-bike accessories ecosystem, then as a Plant Manager at Vight running a 20-person team producing custom lighting systems. I served as a Combat Engineer (Sapper) in the Canadian Armed Forces, and hold a B.Eng. in Mechanical Engineering from Concordia University.
+I started out as a Combat Engineer (Sapper) in the Canadian Armed Forces before studying Mechanical Engineering at Concordia University. After graduating, I moved to Vietnam where I spent nearly three years in manufacturing — first as an R&D Engineer and then Engineering Manager at Modmo, an e-bike startup where I led a team from prototyping through production for a modular accessories ecosystem, then as a Plant Manager at Vight running a 20-person team producing custom bespoke lighting systems.
+
+After Vietnam, I moved to Taipei for two years where I became obsessed with AI — self-studying machine learning and programming full-time until I made the career pivot into software. That non-traditional path — military, mechanical engineering, factory floors, self-taught AI — shapes how I think about building systems today.
 
 When I'm not building agents, you'll probably find me playing chess, watching F1, hiking, or digging through music.
 
